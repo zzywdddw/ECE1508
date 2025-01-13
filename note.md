@@ -23,7 +23,13 @@ Yes! This is the case in unsupervised learning in which we are to learn feature 
 ![image](https://github.com/user-attachments/assets/b717d23d-8e73-43a2-9424-46096db3742b)  
 <br>  
 ### <strong> Training a Model</strong>  
-![image](https://github.com/user-attachments/assets/21a13cbe-ea8a-4bf5-a5cb-346e54e11a55)
+![image](https://github.com/user-attachments/assets/21a13cbe-ea8a-4bf5-a5cb-346e54e11a55)  
+![image](https://github.com/user-attachments/assets/ab14f283-0f7d-48ee-b047-c0b360f97947)  
+![image](https://github.com/user-attachments/assets/d39b8dab-d430-4178-acde-f1ff46fe1ac9)  
+![image](https://github.com/user-attachments/assets/d4188aa3-0668-4391-abca-e01063e07d8e)
+
+
+
 
 
 
