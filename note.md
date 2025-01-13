@@ -17,6 +17,16 @@ Yes! This is the case in unsupervised learning in which we are to learn feature 
 ### <strong>ML Component: Loss</strong>  
 ![image](https://github.com/user-attachments/assets/16f6da0f-fe3e-45fb-b6c6-b0a85e19dd51)  
 ![image](https://github.com/user-attachments/assets/1a8b9650-233c-4b61-93b7-0c6d6ab3b2a7)  
+<br>  
+### <strong>Binary Classification: Perceptron</strong>  
+![image](https://github.com/user-attachments/assets/d9c52e23-0365-4cf7-ad29-f9cb3387f022)  
+![image](https://github.com/user-attachments/assets/b717d23d-8e73-43a2-9424-46096db3742b)  
+<br>  
+### <strong> Training a Model</strong>  
+![image](https://github.com/user-attachments/assets/21a13cbe-ea8a-4bf5-a5cb-346e54e11a55)
+
+
+
 
 
 
