@@ -26,7 +26,27 @@ Yes! This is the case in unsupervised learning in which we are to learn feature 
 ![image](https://github.com/user-attachments/assets/21a13cbe-ea8a-4bf5-a5cb-346e54e11a55)  
 ![image](https://github.com/user-attachments/assets/ab14f283-0f7d-48ee-b047-c0b360f97947)  
 ![image](https://github.com/user-attachments/assets/d39b8dab-d430-4178-acde-f1ff46fe1ac9)  
-![image](https://github.com/user-attachments/assets/d4188aa3-0668-4391-abca-e01063e07d8e)
+![image](https://github.com/user-attachments/assets/d4188aa3-0668-4391-abca-e01063e07d8e)  
+<br>  
+<br>  
+<br>  
+# Lecture 2  
+### <strong> Training Perceptron Machine</strong>  
+![image](https://github.com/user-attachments/assets/49cbebc2-a6c8-4231-be1e-6f5b3a74e9e9)  
+![image](https://github.com/user-attachments/assets/7c771f91-f54f-4284-bb6d-038a4d7cc695)  
+![image](https://github.com/user-attachments/assets/87369274-bc63-4319-84cc-9bb29e5e5a30)  
+![image](https://github.com/user-attachments/assets/08090786-1e28-411e-ac6a-30ee617453f9)  
+![image](https://github.com/user-attachments/assets/5af2fe52-aceb-4ac0-913f-d90d21edacef)  
+![image](https://github.com/user-attachments/assets/0afc2d57-3316-48aa-b30a-2cbd0b63b0a6)
+
+
+
+
+
+
+
+
+
 
 
 
