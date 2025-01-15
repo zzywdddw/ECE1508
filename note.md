@@ -31,13 +31,18 @@ Yes! This is the case in unsupervised learning in which we are to learn feature 
 <br>  
 <br>  
 # Lecture 2  
-### <strong> Training Perceptron Machine</strong>  
 ![image](https://github.com/user-attachments/assets/49cbebc2-a6c8-4231-be1e-6f5b3a74e9e9)  
 ![image](https://github.com/user-attachments/assets/7c771f91-f54f-4284-bb6d-038a4d7cc695)  
 ![image](https://github.com/user-attachments/assets/87369274-bc63-4319-84cc-9bb29e5e5a30)  
 ![image](https://github.com/user-attachments/assets/08090786-1e28-411e-ac6a-30ee617453f9)  
 ![image](https://github.com/user-attachments/assets/5af2fe52-aceb-4ac0-913f-d90d21edacef)  
-![image](https://github.com/user-attachments/assets/0afc2d57-3316-48aa-b30a-2cbd0b63b0a6)
+![image](https://github.com/user-attachments/assets/0afc2d57-3316-48aa-b30a-2cbd0b63b0a6)  
+![image](https://github.com/user-attachments/assets/50ad25ba-4f30-40b2-aca5-2ef876e372d8)  
+![image](https://github.com/user-attachments/assets/b94846ff-8378-4115-9c1f-c0c67f1f49ef)  
+![image](https://github.com/user-attachments/assets/0682edfa-5308-4599-bcc2-feab4dba2bd9)
+
+
+
 
 
 
