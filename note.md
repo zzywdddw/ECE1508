@@ -1,4 +1,4 @@
-# Lecture 1  
+# Chapter 1  
 ### <strong>ML Components: Dataset</strong>  
 Dataset is the collection of data-points  
 ![image](https://github.com/user-attachments/assets/d443b8c2-878e-4eba-985c-7bf23b3a5e8e)  
@@ -30,7 +30,6 @@ Yes! This is the case in unsupervised learning in which we are to learn feature 
 <br>  
 <br>  
 <br>  
-# Lecture 2  
 ![image](https://github.com/user-attachments/assets/49cbebc2-a6c8-4231-be1e-6f5b3a74e9e9)  
 ![image](https://github.com/user-attachments/assets/7c771f91-f54f-4284-bb6d-038a4d7cc695)  
 ![image](https://github.com/user-attachments/assets/87369274-bc63-4319-84cc-9bb29e5e5a30)  
