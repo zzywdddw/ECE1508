@@ -38,7 +38,48 @@ Yes! This is the case in unsupervised learning in which we are to learn feature 
 ![image](https://github.com/user-attachments/assets/0afc2d57-3316-48aa-b30a-2cbd0b63b0a6)  
 ![image](https://github.com/user-attachments/assets/50ad25ba-4f30-40b2-aca5-2ef876e372d8)  
 ![image](https://github.com/user-attachments/assets/b94846ff-8378-4115-9c1f-c0c67f1f49ef)  
-![image](https://github.com/user-attachments/assets/0682edfa-5308-4599-bcc2-feab4dba2bd9)
+![image](https://github.com/user-attachments/assets/0682edfa-5308-4599-bcc2-feab4dba2bd9)  
+<br>  
+<br>  
+<br>  
+# Chapter 2  - sec 1  
+FNNs (Feedforward NNs)  
+![image](https://github.com/user-attachments/assets/4b91686b-1850-4a34-9947-17b324db4cda)  
+The width of a layer is the number of neurons in layer. Some people call the largest width, the width of the network  
+![image](https://github.com/user-attachments/assets/2a7aae66-bc90-4b6f-883f-e765ea7a19ff)  
+![image](https://github.com/user-attachments/assets/31ba30bb-6b7a-4d4f-b4a4-fdfedc64ca4d)  
+<br>  
+<br>  
+<br>  
+# Chapter 2  - sec 2  
+### Computation Graph  
+![image](https://github.com/user-attachments/assets/7bfacb42-2609-4a73-98fb-b1fb1ae1ea5d)  
+![image](https://github.com/user-attachments/assets/24b02d77-c3e2-41c3-b16e-6e58c7761740)  
+<br>  
+<br>  
+### Backpropagation  
+case1:  
+![image](https://github.com/user-attachments/assets/0ec3ae2c-a856-4f39-a9dc-cdf54836d21b)  
+case2:  
+![image](https://github.com/user-attachments/assets/622ec64e-fb52-4f01-8a02-1367a3c15444)  
+![image](https://github.com/user-attachments/assets/36de0293-ae3a-4104-8759-c7bc380b40d7)  
+case3:  
+![image](https://github.com/user-attachments/assets/dd31df03-1ba3-4e4c-908a-c8a62bf63e7b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
