@@ -131,7 +131,19 @@ We say a model, i.e., NN, generalizes well if not only its training risk, but al
 ### Data Cleaning: Outliers  
 ![image](https://github.com/user-attachments/assets/f967c06b-986b-4211-864a-973853548ae7)  
 ![image](https://github.com/user-attachments/assets/8f0d417d-a7d2-4d7c-bd42-dc9022ff6ea3)  
-![image](https://github.com/user-attachments/assets/a375c440-0e2a-4778-a236-d95b941f4c1b)
+![image](https://github.com/user-attachments/assets/a375c440-0e2a-4778-a236-d95b941f4c1b)  
+<br>  
+<br>  
+<br>  
+# Chapter 3  - sec 4  
+### Normalization  
+![image](https://github.com/user-attachments/assets/22bc8659-cb57-468a-a27b-5581d31aa7ca)  
+![image](https://github.com/user-attachments/assets/1b670886-a347-49b9-86d7-65b4f59fa03b)  
+![image](https://github.com/user-attachments/assets/bac759b8-6741-4893-a0c9-86baadde5f75)  
+![image](https://github.com/user-attachments/assets/25a983dc-8d19-4d19-9844-fa9673d990e1)
+
+
+
 
 
 
