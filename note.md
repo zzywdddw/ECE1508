@@ -64,7 +64,44 @@ case2:
 ![image](https://github.com/user-attachments/assets/622ec64e-fb52-4f01-8a02-1367a3c15444)  
 ![image](https://github.com/user-attachments/assets/36de0293-ae3a-4104-8759-c7bc380b40d7)  
 case3:  
-![image](https://github.com/user-attachments/assets/dd31df03-1ba3-4e4c-908a-c8a62bf63e7b)
+![image](https://github.com/user-attachments/assets/dd31df03-1ba3-4e4c-908a-c8a62bf63e7b)  
+![image](https://github.com/user-attachments/assets/de8b53a5-db1c-420f-b295-cab950bf001c)
+![image](https://github.com/user-attachments/assets/3f9f2c6c-4fc5-4ec5-9f55-6de6cc59fa44)  
+### Pseudo Code  
+![image](https://github.com/user-attachments/assets/91365334-5744-4ed1-86a8-ff0d334d789b)  
+<br>  
+<br>  
+<br>  
+# Chapter 2  - sec 3  
+### For classification, MSE or CrossEntropy?
+![image](https://github.com/user-attachments/assets/3504f638-6bfd-45f4-9862-a5a25cbd37bb)  
+![image](https://github.com/user-attachments/assets/713647c6-c83f-4c62-be1a-acce8c0dd301)  
+<br>  
+### One-hot vector  
+![image](https://github.com/user-attachments/assets/63f136d2-aab7-4146-9a17-8ada4f0a78c3)  
+<br>  
+<br>  
+<br>  
+# Chapter 2  - sec 4  
+### Stochastic Gradient Descent  
+![image](https://github.com/user-attachments/assets/82425e25-bd2f-4c2c-b80d-5e11d0f760c9)  
+### Mini-Batch SGD  
+![image](https://github.com/user-attachments/assets/eca3cdc2-50ef-45b3-abac-3d1e44de8b6b)  
+![image](https://github.com/user-attachments/assets/e077df9c-97d0-42f5-a120-b3ef3cc790af)  
+<br>  
+<br>  
+<br>  
+# Chapter 3  - sec 1  
+
+
+
+
+
+
+
+
+
+
 
 
 
