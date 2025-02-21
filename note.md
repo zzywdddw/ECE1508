@@ -105,7 +105,33 @@ case3:
 <br>  
 <br>  
 # Chapter 3  - sec 2  
-### 
+### Overfitting  
+Overfitting occurs when training fits the model, i.e.,NN,to the training dataset, so that it does not generalize to new data-points  
+![image](https://github.com/user-attachments/assets/22019436-fe7f-4727-858d-08789a136270)  
+![image](https://github.com/user-attachments/assets/60ff5807-2b28-404d-8889-e163e0c0eded)  
+![image](https://github.com/user-attachments/assets/fda46374-337f-4461-b4d0-d0f8f997062b)
+
+
+### Generalization  
+We say a model, i.e., NN, generalizes well if not only its training risk, but also its test risk is small  
+### Validation  
+![image](https://github.com/user-attachments/assets/932a5202-b99e-4cc4-8c25-e5c50aed58e1)  
+### Regularization  
+![image](https://github.com/user-attachments/assets/78a3c326-f34d-4521-9654-f2ec671ed738)  
+![image](https://github.com/user-attachments/assets/7a81ae96-4838-4e21-9024-982c5b6011c2)  
+<br>  
+<br>  
+<br>  
+# Chapter 3  - sec 3  
+### Data Augmentation  
+![image](https://github.com/user-attachments/assets/d2b1c170-ae54-47d3-aee4-c9bd901a05b9)  
+![image](https://github.com/user-attachments/assets/ca8df8c2-d9d4-4037-a73a-18867fb69549)  
+### Data Cleaning: Duplicates  
+![image](https://github.com/user-attachments/assets/e2c82ad4-0227-41e7-9c78-343c04f1e5b0)  
+### Data Cleaning: Outliers  
+![image](https://github.com/user-attachments/assets/f967c06b-986b-4211-864a-973853548ae7)  
+![image](https://github.com/user-attachments/assets/8f0d417d-a7d2-4d7c-bd42-dc9022ff6ea3)  
+![image](https://github.com/user-attachments/assets/a375c440-0e2a-4778-a236-d95b941f4c1b)
 
 
 
@@ -117,7 +143,6 @@ case3:
 
 
 
-Geoffrey Hinton
 
 
 
