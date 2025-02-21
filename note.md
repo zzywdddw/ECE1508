@@ -92,12 +92,32 @@ case3:
 <br>  
 <br>  
 # Chapter 3  - sec 1  
+### Momentum  
+![image](https://github.com/user-attachments/assets/8d9f120a-8c49-40cb-b5e4-24e96e550577)  
+![image](https://github.com/user-attachments/assets/64014bf3-6a0c-40df-b82d-91e1ad54a8e8)  
+### RMSprop  
+![image](https://github.com/user-attachments/assets/b1727e10-1568-4a8d-b4c5-fd4bbef520fa)  
+![image](https://github.com/user-attachments/assets/c6e811f1-fe78-41a2-a252-bbfad32e38a1)  
+### Adam  
+![image](https://github.com/user-attachments/assets/114193c7-b48a-4417-b7f9-140af4ce34d0)  
+![image](https://github.com/user-attachments/assets/0d8b2288-2b27-4cdd-bb61-c206c180745f)  
+<br>  
+<br>  
+<br>  
+# Chapter 3  - sec 2  
+### 
 
 
 
 
 
 
+
+
+
+
+
+Geoffrey Hinton
 
 
 
