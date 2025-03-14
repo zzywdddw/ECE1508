@@ -140,7 +140,50 @@ We say a model, i.e., NN, generalizes well if not only its training risk, but al
 ![image](https://github.com/user-attachments/assets/22bc8659-cb57-468a-a27b-5581d31aa7ca)  
 ![image](https://github.com/user-attachments/assets/1b670886-a347-49b9-86d7-65b4f59fa03b)  
 ![image](https://github.com/user-attachments/assets/bac759b8-6741-4893-a0c9-86baadde5f75)  
-![image](https://github.com/user-attachments/assets/25a983dc-8d19-4d19-9844-fa9673d990e1)
+![image](https://github.com/user-attachments/assets/25a983dc-8d19-4d19-9844-fa9673d990e1)  
+<br>  
+<br>  
+<br>  
+# Chapter 4  - sec 1  
+### Convolutional NNs: CNNs  
+CNN is an FNN which in addition to standard fully-connected layers uses convolutional and pooling layers for feature extractionk  
+![image](https://github.com/user-attachments/assets/79562fd4-6b48-4675-b8ca-6602623768ce)  
+![image](https://github.com/user-attachments/assets/ba10103e-f71d-4c12-a9a9-3299acf61e69)  
+#### Step 1: Convolution:  
+![image](https://github.com/user-attachments/assets/8504850d-edb7-41d8-babe-eeac43ee7cdd)  
+![image](https://github.com/user-attachments/assets/a58498ef-f933-49ef-8936-52bf8114e6eb)  
+#### Step 2: Pooling:  
+![image](https://github.com/user-attachments/assets/b024bad9-dc6a-45bd-a968-fb26561b8b42)  
+#### Step 3: Flattening:  
+![image](https://github.com/user-attachments/assets/a8e6fb0b-c6b4-4f64-a930-881e370bb5c0)  
+#### Overview:  
+![image](https://github.com/user-attachments/assets/90693890-101a-444b-9448-f5072d01ecb6)  
+<br>  
+<br>  
+<br>  
+# Chapter 4  - sec 2  
+### DownSampling  
+![image](https://github.com/user-attachments/assets/1359aa6d-93ab-412a-b6db-1e1f9d3d88b2)  
+### UpSampling  
+![image](https://github.com/user-attachments/assets/ffa8ae52-e7b4-46c1-8c32-6e400cad6311)  
+![image](https://github.com/user-attachments/assets/ab4bf893-6296-478a-8e0d-650df6bce810)  
+### Resampling  
+![image](https://github.com/user-attachments/assets/a6e05238-25df-4191-b34b-d8e0368abfbc)  
+# 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
