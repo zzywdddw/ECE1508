@@ -179,6 +179,19 @@ CNN is an FNN which in addition to standard fully-connected layers uses convolut
 <br>  
 <br>  
 # Chapter 4  - sec 3  
+### Receptive Field  
+In a Single Convolutional Layer: Each neuron in a convolutional layer is connected to a small patch of the input image (determined by the filter size, e.g., 3×3). This small patch is called the local receptive field of the neuron.  
+<br>  
+<br>  
+<br>  
+# Chapter 4  - sec 4  
+### Backpropagation  
+![image](https://github.com/user-attachments/assets/b4ef09f8-6ce1-4135-8da0-60c203880e86)  
+![image](https://github.com/user-attachments/assets/5e0a290c-a5d0-469a-bc08-c5dc2c1a605b)
+
+
+
+
 
  
 
