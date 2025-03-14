@@ -169,7 +169,23 @@ CNN is an FNN which in addition to standard fully-connected layers uses convolut
 ![image](https://github.com/user-attachments/assets/ab4bf893-6296-478a-8e0d-650df6bce810)  
 ### Resampling  
 ![image](https://github.com/user-attachments/assets/a6e05238-25df-4191-b34b-d8e0368abfbc)  
-# 
+###  Convolution: 3D Arrays  
+![image](https://github.com/user-attachments/assets/4c7048ac-a030-43f9-9af6-f79f88146bbb)  
+![image](https://github.com/user-attachments/assets/5f391f37-9a97-463e-94e6-bdcda2071667)  
+![image](https://github.com/user-attachments/assets/e436ff51-a3fc-43e9-91ef-6359fb6fd57c)  
+### How to Read Dimensions  
+![image](https://github.com/user-attachments/assets/418223ff-3110-4a95-a8e8-3c3ab512d177)  
+<br>  
+<br>  
+<br>  
+# Chapter 4  - sec 3  
+
+ 
+
+
+
+
+
 
 
 
