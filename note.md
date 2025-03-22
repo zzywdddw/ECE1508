@@ -187,7 +187,30 @@ In a Single Convolutional Layer: Each neuron in a convolutional layer is connect
 # Chapter 4  - sec 4  
 ### Backpropagation  
 ![image](https://github.com/user-attachments/assets/b4ef09f8-6ce1-4135-8da0-60c203880e86)  
-![image](https://github.com/user-attachments/assets/5e0a290c-a5d0-469a-bc08-c5dc2c1a605b)
+![image](https://github.com/user-attachments/assets/5e0a290c-a5d0-469a-bc08-c5dc2c1a605b)  
+<br>  
+<br>  
+<br>  
+# Chapter 5  - sec 1  
+### Vanishing Gradient  
+As we go deeper, the gradients determined by backpropagation at initial layers get smaller and smaller such that at some point they stop getting updated anymore, even though they should.  
+![image](https://github.com/user-attachments/assets/e5eb9766-a1d9-41bd-99be-597211cf0b43)  
+<br>  
+<br>  
+<br>  
+# Chapter 5  - sec 2  
+### Skip Connection  
+![image](https://github.com/user-attachments/assets/bc1f7728-782d-46ec-98eb-4c59d0134af8)  
+![image](https://github.com/user-attachments/assets/076052c0-9f6f-438c-a2c8-9869c14cd344)  
+![image](https://github.com/user-attachments/assets/0bbed443-4394-4653-bdc9-276811426cf0)  
+### Backpropagation through Residual Units  
+![image](https://github.com/user-attachments/assets/ab614a87-d225-4ae7-8669-6b171f8865eb)  
+The second term ensures that the gradient never becomes zero, which helps prevent gradient vanishing.
+
+
+
+
+
 
 
 
