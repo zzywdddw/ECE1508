@@ -205,7 +205,36 @@ As we go deeper, the gradients determined by backpropagation at initial layers g
 ![image](https://github.com/user-attachments/assets/0bbed443-4394-4653-bdc9-276811426cf0)  
 ### Backpropagation through Residual Units  
 ![image](https://github.com/user-attachments/assets/ab614a87-d225-4ae7-8669-6b171f8865eb)  
-The second term ensures that the gradient never becomes zero, which helps prevent gradient vanishing.
+The second term ensures that the gradient never becomes zero, which helps prevent gradient vanishing.  
+<br>  
+<br>  
+<br>  
+# Chapter 6  - sec 1  
+### Predicting Next Word: MLP  
+![image](https://github.com/user-attachments/assets/6e75daa2-8db4-4b88-baae-92b020413ddc)  
+In natural language, words depend on previous words, sometimes even far back in the sentence or paragraph.
+In the given example: "Julia has been nominated" should be linked to "to receive". "her" should refer back to "Julia". However, the FNN does not have a memory to make these connections.  
+### Predicting Next Word: CNN  
+![image](https://github.com/user-attachments/assets/0bbb64ac-7c2d-4054-908f-b3e696914a6a)  
+### Space-state model  
+![image](https://github.com/user-attachments/assets/cef2cf0d-7094-461d-a93a-712d369b82ee)  
+![image](https://github.com/user-attachments/assets/fe2204a8-fe62-437e-854b-e817c964f293)  
+<br>  
+<br>  
+<br>  
+# Chapter 6  - sec 2  
+### Temporal Correlation  
+![image](https://github.com/user-attachments/assets/f64e24fa-4ecb-495e-9050-ba9a42855d23)  
+Temporal correlation means that the values in a sequence are dependent on or related to the values at other time steps. In other words, past or future values provide information about the current value. This is a key characteristic of time-series data, where observations are not independent but exhibit patterns over time.
+
+
+
+
+
+
+
+
+
 
 
 
