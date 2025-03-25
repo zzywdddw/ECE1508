@@ -225,7 +225,36 @@ In the given example: "Julia has been nominated" should be linked to "to receive
 # Chapter 6  - sec 2  
 ### Temporal Correlation  
 ![image](https://github.com/user-attachments/assets/f64e24fa-4ecb-495e-9050-ba9a42855d23)  
-Temporal correlation means that the values in a sequence are dependent on or related to the values at other time steps. In other words, past or future values provide information about the current value. This is a key characteristic of time-series data, where observations are not independent but exhibit patterns over time.
+Temporal correlation means that the values in a sequence are dependent on or related to the values at other time steps. In other words, past or future values provide information about the current value. This is a key characteristic of time-series data, where observations are not independent but exhibit patterns over time. 
+<br>  
+<br>  
+<br>  
+# Chapter 6  - sec 4  
+### A generic gate  
+![image](https://github.com/user-attachments/assets/c4afb7e2-4743-4a27-b836-bf9f759979e9)   
+### GRU(Gated Recurrent Unit)  
+![image](https://github.com/user-attachments/assets/5824779a-0318-4c37-8655-59626d5a342d)  
+![image](https://github.com/user-attachments/assets/20a9c828-0b8d-433c-8406-128c980e5542)  
+### Long Short-Term Memory(LSTM)  
+![image](https://github.com/user-attachments/assets/c0a45278-522a-4fa6-8401-8c6b88489440)  
+![image](https://github.com/user-attachments/assets/2d821dfe-9c42-433d-9f9b-c9fad84e2c24)  
+-  Forget gate controls how much we forget from last state: Assume Ff[t] = 0: then,we remember nothing of c[t-1]
+-  Input gate controls how much we remember from new cell state: Assume Fi[t] = 0: then, weremember nothing of c[t]
+-   Output gate controls how much we let from updated state to go out: Assume Fo[t] = 0: then,we send nothing of c[t] out out time. 
+<br>  
+<br>  
+<br>  
+# Chapter 6  - sec 5  
+### Bidirectional RNNs  
+![image](https://github.com/user-attachments/assets/49d4cc49-959a-4936-8419-398abf4a285a)  
+![image](https://github.com/user-attachments/assets/8cca5e77-a0dc-42d0-a96f-e26254fd695c)
+
+
+
+
+
+
+
 
 
 
